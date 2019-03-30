@@ -61,7 +61,7 @@ export default class Cuaca1 extends React.Component {
                  </Text>
                  </View>
                 <View style={styles.Box4}>
-                    <Text style={styles.Text1}>©Agus Agastia</Text>
+                    <Text style={styles.Text1}>@Agus Agastia</Text>
                 </View>
             </View>
         );
