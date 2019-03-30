@@ -71,19 +71,19 @@ export default class Cuaca1 extends React.Component {
 const styles = StyleSheet.create({
     containerMain: {
         flex: 1,
-        backgroundColor: '#00FFFF',
+        backgroundColor: '#B0E0E6',
         flexDirection: 'column'
     },
     
     Box1: {
         flex: 0.2,
-        backgroundColor: '#00CED1',
+        backgroundColor: '#4682B4',
         justifyContent: 'space-around',
         alignItems: 'center'
     },
     Box2: {
         flex: 0.2,
-        backgroundColor: '#00CED1',
+        backgroundColor: '#4682B4',
         flexDirection: 'column',
         justifyContent: 'center',
         margin: 20,
@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     },
     Box4: {
         flex: 0.2,
-        backgroundColor: '#00CED1',
+        backgroundColor: '#4682B4',
         justifyContent: 'space-around',
         alignItems: 'center'
     },
